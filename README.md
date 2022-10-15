@@ -1,5 +1,5 @@
-# My-Protfolio
+# My-Portfolio
 
-Personal Protfolio
+Personal Portfolio
 
 Check the link: https://mahmoud-habab.github.io/My-Portfolio/
